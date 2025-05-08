@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **FullStack**
 
 - 📫 How to reach me **ronakthapa37@gmail.com**
 
